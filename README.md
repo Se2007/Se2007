@@ -38,8 +38,6 @@
 - Robotics Control via Learning-Based Methods  
 - AI Systems with Real-World Constraints
 - Deep Learning and Machine Learning
-- ِث
-- ِث
 
 ---
 
