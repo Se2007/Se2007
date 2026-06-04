@@ -4,9 +4,7 @@
  
 🎓 AI Engineer | Machine Learning | Computer Vision | Robotics   
 
-🚀 I design and build intelligent systems that transform data into real-world solutions.  
-🧠 My work focuses on **deep learning, computer vision, reinforcement learning, and applied AI**, with a strong emphasis on robustness, efficiency, and practical impact.
-
+🌐 More about me → **[Portfolio](https://my-website-mndajukio-sepehr-portfolio.vercel.app/)**
 
 ---
 
@@ -33,17 +31,8 @@
 
 ---
 
-## Current Interests
-- Medical AI & Diagnostic Automation  
-- Efficient Deep Learning Models  
-- Robotics Control via Learning-Based Methods  
-- AI Systems with Real-World Constraints
-- Deep Learning and Machine Learning
 
----
-
-## Contact
-📧 sepehr.eslami2019@gmail.com
+📫 sepehr.eslami2019@gmail.com
 
 ---
 
