@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Sepehr 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=Hi,+I'm+Sepehr+👋;AI+Engineer;Computer+Vision+%26+Deep+Learning;Building+things+that+work+in+the+real+world)](https://git.io/typing-svg)
+
 
  
 🎓 AI Engineer | Machine Learning | Computer Vision | Robotics   
